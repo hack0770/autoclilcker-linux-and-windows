@@ -1,4 +1,4 @@
-# Auto Key Spammer (Linux & Windows)
+# Autoсlicker keyborad (Linux & Windows)
 
 [English](#english) | [Русский](#russian)
 
