@@ -10,7 +10,7 @@ echo "Activating virtual environment..."
 source venv/bin/activate
 
 echo "Installing dependencies..."
-pip install -r requirements.txt
+./venv/bin/pip install -r requirements.txt
 
 # optional Install 
 if [[ "$OSTYPE" == "linux-gnu"* ]]; then
@@ -21,4 +21,5 @@ if [[ "$OSTYPE" == "linux-gnu"* ]]; then
 fi
 
 echo "Starting Auto Key Spammer..."
-python main.py
+./venv/bin/python main.py
+deactivate

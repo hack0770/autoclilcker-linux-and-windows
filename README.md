@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Autoсlicker keyborad (Linux & Windows)
+=======
+# Auto Key Spammer (Linux & Windows)
+>>>>>>> 72d5015 (fix hyperland arch)
 
 [English](#english) | [Русский](#russian)
 
